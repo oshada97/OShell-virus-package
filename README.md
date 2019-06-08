@@ -1,2 +1,3 @@
 # Oshell-virus-package
-Oshell virus package for basic usages.Further developments will apply.
+Oshell virus package for basic security testing. Further developments will apply.
+Increasing Security :construction::door::hocho::gun:
